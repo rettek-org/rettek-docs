@@ -141,7 +141,7 @@
                 <mxCell id="105" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Address&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;strokeColor=#FF0000;" vertex="1" parent="1">
                     <mxGeometry x="80" y="627.5" width="170" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="111" value="buildingNumber?: number" style="text;strokeColor=#FF0000;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="105">
+                <mxCell id="111" value="buildingNumber?: string" style="text;strokeColor=#FF0000;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="105">
                     <mxGeometry y="30" width="170" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="106" value="street: string" style="text;strokeColor=#FF0000;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="105">
