@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="f8TwDAOpTOypxwt7m_-x" name="V0">
-        <mxGraphModel dx="1141" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="821" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -216,7 +216,7 @@
                 <mxCell id="139" value="consumer =&amp;nbsp;&lt;font color=&quot;#ffff00&quot;&gt;'&lt;/font&gt;&lt;font color=&quot;#ffff33&quot;&gt;consumer&lt;/font&gt;&lt;font color=&quot;#ffff00&quot;&gt;'&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="137">
                     <mxGeometry y="60" width="155" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="145" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#007fff&quot;&gt;statusEnum&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;strokeColor=#007FFF;" vertex="1" parent="1">
+                <mxCell id="145" value="&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;orderStatus&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;strokeColor=#007FFF;" vertex="1" parent="1">
                     <mxGeometry x="348" y="770" width="155" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="146" value="status: &lt;font color=&quot;#0000ff&quot;&gt;statusEnum&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="145">
